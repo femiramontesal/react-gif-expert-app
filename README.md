@@ -1,4 +1,4 @@
 # GifExpertApp
 
 Vite
-React
+React Typesctipt
